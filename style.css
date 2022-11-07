@@ -1,0 +1,65 @@
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+	color: #fff;
+	background-color:cornflowerblue;
+}
+
+a {
+	color:lavender;
+	text-decoration: none;
+	background-color: transparent;
+}
+
+
+body {background-color: aliceblue;}
+
+h1 {
+	font-family: 'Kalam', cursive;
+}
+
+h2 {
+	font-family: 'Vidaloka' , serif;
+}
+
+p {
+	font-family: 'Red Hat Text' , sans-serif;
+}
+
+#about
+{ 	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+#folklore
+{
+	margin-top: 25px;
+	margin-bottom: 100px;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+#reputay
+{
+	margin-top: 25px;
+	margin-bottom: 100px;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+#SN
+{
+	margin-top: 25px;
+	margin-bottom: 100px;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+#RTV
+{
+	margin-top: 25px;
+	margin-bottom: 100px;
+	margin-right: 25px;
+	margin-left: 25px;
+}
